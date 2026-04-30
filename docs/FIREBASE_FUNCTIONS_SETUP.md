@@ -14,10 +14,10 @@ Run these commands from the project root:
 
 ```powershell
 cd D:\lost-phone-tracker
-npm install --prefix functions
+npm install --prefix cloud-functions
 firebase login
 firebase use lost-phone-tracker-781e6
-firebase deploy --only functions
+firebase deploy --only "functions"
 ```
 
 ## App run commands
@@ -25,14 +25,14 @@ firebase deploy --only functions
 Phone:
 
 ```powershell
-cd D:\lost-phone-tracker\mobile
+cd D:\lost-phone-tracker\mobile-app
 flutter run
 ```
 
 Chrome controller:
 
 ```powershell
-cd D:\lost-phone-tracker\mobile
+cd D:\lost-phone-tracker\mobile-app
 flutter run -d chrome
 ```
 

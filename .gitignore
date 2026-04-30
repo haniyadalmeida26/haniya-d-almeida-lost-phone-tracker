@@ -1,5 +1,5 @@
-backend/.env
-backend/serviceAccountKey.json
+backend-server/.env
+backend-server/serviceAccountKey.json
 
 # OS / editor
 .DS_Store
