@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD90Eg0D4luFebmDBsr9MaXAePvAzLShb8',
+    apiKey: '****',
     appId: '1:818063447426:android:5fd5f6a4f0980d6b2deb9b',
     messagingSenderId: '818063447426',
     projectId: 'lost-phone-tracker-781e6',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyACZVeEtmG0k9d4SqQQdPHsygxmaNbqEU8',
+    apiKey: '****',
     appId: '1:818063447426:web:a0023c117818f6f82deb9b',
     messagingSenderId: '818063447426',
     projectId: 'lost-phone-tracker-781e6',
