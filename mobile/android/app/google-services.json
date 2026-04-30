@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818063447426",
+    "project_id": "lost-phone-tracker-781e6",
+    "storage_bucket": "lost-phone-tracker-781e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818063447426:android:5fd5f6a4f0980d6b2deb9b",
+        "android_client_info": {
+          "package_name": "com.example.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD90Eg0D4luFebmDBsr9MaXAePvAzLShb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

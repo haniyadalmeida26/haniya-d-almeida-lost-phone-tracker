@@ -1,0 +1,11 @@
+# ✍️ STEP 10 — Fill In .gitignore
+
+Click on `.gitignore` in the sidebar. Paste this:
+```
+node_modules/
+.env
+serviceAccountKey.json
+*.key
+.DS_Store
+Thumbs.db
+.vscode/

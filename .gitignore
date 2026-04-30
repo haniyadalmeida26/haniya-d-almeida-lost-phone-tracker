@@ -1,0 +1,22 @@
+backend/.env
+backend/serviceAccountKey.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# Flutter / Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+
+# Firebase local state
+.firebase/
